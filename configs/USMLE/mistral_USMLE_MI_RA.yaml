@@ -1,0 +1,9 @@
+---
+LLM: mistralai/Mistral-7B-Instruct-v0.2
+dataset: USMLE
+max_new_tokens: 1
+if_train: True
+if_RA: True
+if_MI_RA: True
+
+

@@ -1,0 +1,8 @@
+---
+LLM: meta-llama/Llama-2-7b-chat-hf
+dataset: USMLE
+max_new_tokens: 1
+if_train: False
+if_RA: True
+if_MI_RA: False
+train_eval: 1
